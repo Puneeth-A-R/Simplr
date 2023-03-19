@@ -1,2 +1,13 @@
 # MyLang
-An interpreted programming language created from scratch by me.
+An interpreted programming language created from scrath using the python programming language.  
+The language I've created is very creatively named as MyLang :)  
+
+I worked on this project over a period of 4 months (From mid of December 2021 to about the mid of April 2022).  
+MyLang programming language currently supports the following features:
+- Handles simple and complex mathematical expressions (Along with Algebraic precedence and associativity).
+- Runtime error handling mechanisms.
+- Helpful error messages (Points the row and column number of the error).
+- Generates entire Traceback for the errors encountered.
+- Handles variables, comparision operators (==, !=, <, >, <=, >=), logical operators(and, or, not) and boolean operators (0, True, 1, False).
+- Has support for conditionals (IF THEN and ELSE).
+- Has support for loops (FOR TO and WHILE THEN).

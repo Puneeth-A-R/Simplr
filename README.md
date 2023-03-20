@@ -8,7 +8,7 @@ MyLang programming language currently supports the following features:
 - Runtime error handling mechanisms.
 - Helpful error messages (Points the row and column number of the error).
 - Generates entire Traceback for the errors encountered.
-- Handles variables, comparision operators (==, !=, <, >, <=, >=), logical operators(and, or, not) and boolean operators (0, True, 1, False).
+- Handles variables, comparision operators (==, !=, <, >, <=, >=), logical operators (and, or, not) and boolean operators (0, True, 1, False).
 - Has support for conditionals (IF THEN and ELSE).
 - Has support for loops (FOR TO and WHILE THEN).
 - Has the RETURN, CONTINUE and BREAK statements.

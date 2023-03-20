@@ -1,0 +1,7 @@
+Run the following in the interactive terminal.
+
+FOR i = 1 TO 6 THEN VAR result = result * i
+
+FOR i = 5 TO 0 STEP -1 THEN VAR result = result * i
+
+WHILE i < 1000000 THEN VAR i = i + 1

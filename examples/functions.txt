@@ -1,0 +1,26 @@
+Run the following in the interactive terminal.
+
+
+Creating a function in MyLang
+FUN add(a, b) -> a + b
+add(5, 11)
+
+
+These function calls give an error
+add()
+add(7)
+add(1, 3, 5)
+
+
+Assigning function to a variable
+VAR some_func = add
+some_func(5, 10)
+
+
+Creating an anonymous function
+FUN (a) -> a * b
+
+
+Traceback error to the erroneous function
+FUN test(x) -> x / 0
+test(123456)

@@ -1,0 +1,18 @@
+Run the following in the interactive terminal.
+
+
+Add string:
+"This is a string"
+
+
+Concatenate strings:
+"This is" + "a string"
+
+
+Multiply strings:
+"Hello" * 3
+
+
+Using strings in functions:
+FUN greet(person, emphasization) -> "Hello, " * emphasization
+greet("Puneeth", 3)

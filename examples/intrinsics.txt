@@ -1,0 +1,47 @@
+Run the following in the interactive terminal.
+
+
+In-built values:
+MATH_PI
+
+
+Outputs value to the console:
+PRINT("Hello, World!")
+
+
+Reading user input:
+VAR name = INPUT()
+
+
+Reading user input as an integer:
+VAR age = INPUT_INT()
+Handles errors if integer is not entered.
+
+
+Clearing the terminal:
+clear()
+cls()
+
+
+Verifying a number:
+IS_NUM(123)
+IS_NUM([])
+
+
+Verifying a string:
+IS_STR("ABCDE")
+IS_STR("[]")
+
+
+Appending values to a List:
+VAR list = [1, 2, 3]
+APPEND(list, 4)
+
+
+Removing elements from a List:
+VAR list2 = [4, 5, 6, 7]
+POP(list2, 3)
+
+
+Concatenating 2 lists via a function call:
+EXTEND(list, [4, 5, 6])

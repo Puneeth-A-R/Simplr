@@ -1,0 +1,9 @@
+Run the following in the interactive terminal.
+
+*
+VAR a = 0
+10 / a
+
+VAR b = 15
+VAR c = 20
+VAR D = B - A + C

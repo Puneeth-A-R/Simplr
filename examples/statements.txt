@@ -1,0 +1,11 @@
+Run the following in the interactive terminal.
+
+VAR a = []
+
+FOR i = 8 TO 10 THEN
+    IF i == 4 THEN
+        CONTINUE
+    ELIF i == 8 THEN
+        BREAK
+
+VAR a = a + i

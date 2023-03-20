@@ -1,0 +1,28 @@
+Run the following in the interactive terminal.
+
+
+Create an empty List:
+[]
+
+
+Intializing a List with values:
+[1, 2, 3, 4]
+
+
+Add element to List:
+[1, 2, 3] + 4
+
+
+Concatenate 2 Lists:
+[1, 2, 3] * [4, 5, 6]
+
+
+Indexing into Zeroth index in the List:
+[1, 2, 3, 4]/0
+
+
+Out of bounds error handling:
+[1, 2, 3, 4]/5656
+
+FOR loop returns a List:
+FOR i = 1 TO 9 THEN 2 ^ i

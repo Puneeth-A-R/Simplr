@@ -1,0 +1,7 @@
+Run the following in the interactive terminal.
+
+IF 5 == 5 THEN 123
+IF 7 == 9 THEN 456 ELSE 789
+
+VAR age = 19
+VAR price = IF age >= 18 THEN 40 ELSE 28

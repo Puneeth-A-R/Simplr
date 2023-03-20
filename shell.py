@@ -1,9 +1,9 @@
-import basic
+import mylang
 
 while True:
-	text = input('basic > ')
+	text = input('MyLang > ')
 	if text.strip() == "": continue
-	result, error = basic.run('<stdin>', text)
+	result, error = mylang.run('<stdin>', text)
 
 	if error:
 		print(error.as_string())

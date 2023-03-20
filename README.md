@@ -1,6 +1,6 @@
 # MyLang
 An interpreted programming language created from scratch using the python programming language.  
-The language I've created is very creatively named as MyLang :)  
+I've very creatively named this language as MyLang :)  
 
 I worked on this project over a period of 4 months (From mid of December 2021 to about the mid of April 2022).  
 MyLang programming language currently supports the following features:

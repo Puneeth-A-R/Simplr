@@ -15,6 +15,6 @@ MyLang programming language currently supports the following features:
 - Allows for user defined functions (Also handles errors such as passing too many or too few arguments etc...)
 - MyLang has String type and also supports common operations on strings (Concatination, multiplication etc...)
 - MyLang allows for creation of Lists and supports common opperations on it (Adding/appending elements, removing elements, merging lists, indexing lists, iterating over a List's elements).
-- Supports a host of intrinsic functions (print(), cls(), input(), input_int(), is_num(), is_str(), is_list(), append(), extend(), pop()).
+- Supports a host of intrinsic functions (print(), clear(), cls(), input(), input_int(), is_num(), is_str(), is_list(), append(), extend(), pop()).
 - MyLang can be used in an interactive shell-like interface and also by running a pre-written .myopl file.
 - The RUN() statement allows you to run a .myopl file.
